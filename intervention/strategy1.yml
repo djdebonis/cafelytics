@@ -9,8 +9,8 @@ replant:
 prune:
   isPrune: True
   age: 8
-  proportion: 1.0
-  lifeExtend: 0.15
+  proportion: 1.0 # proportion of trees that get pruned
+  lifeExtend: 0.15 # increase in total life capacity 
   
 intercrop:
   isIntercrop: False
